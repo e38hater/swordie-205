@@ -1,1 +1,6 @@
-follow the v203.4 setup guide, if you need help add Poki#6969 on discord
+swordie source v205
+
+there are bugs but login is possible
+
+
+discord: e38#7017
