@@ -8,11 +8,11 @@
         </property>
 
         <property name = "hibernate.connection.driver_class">
-            com.mysql.jdbc.Driver
+            com.mysql.cj.jdbc.Driver
         </property>
 
         <property name = "hibernate.connection.url">
-            jdbc:mysql://127.0.0.1:3306/v205?autoReconnect=true&amp;useSSL=false
+            jdbc:mysql://127.0.0.1:3306/swordie?autoReconnect=true&amp;useSSL=false&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true
         </property>
 
         <property name = "hibernate.connection.username">
